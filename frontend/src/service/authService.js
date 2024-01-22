@@ -21,8 +21,6 @@ const register = async (data) => {
 };
 
 
-
-
 const authService = {
    register,
 
