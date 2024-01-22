@@ -144,7 +144,6 @@ const getUserById = async(req, res) => {
       return;
       
    }  
-
 }
 
 module.exports = {
